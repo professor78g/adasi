@@ -111,7 +111,7 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا seramic.qzz.io:443 [VLESS]",
+      "tag": "seramic.qzz.io:443 [VLESS]",
       "server": "seramic.qzz.io",
       "server_port": 443,
       "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
@@ -134,9 +134,9 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.121.95:2083 [VLESS]",
-      "server": "104.17.121.95",
-      "server_port": 2083,
+      "tag": "104.19.32.237:8443 [VLESS]",
+      "server": "104.19.32.237",
+      "server_port": 8443,
       "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
       "transport": {
         "path": "/",
@@ -157,8 +157,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.18.33.202:443 [VLESS]",
-      "server": "104.18.33.202",
+      "tag": "104.19.150.48:443 [VLESS]",
+      "server": "104.19.150.48",
       "server_port": 443,
       "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
       "transport": {
@@ -180,8 +180,261 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 198.41.209.58:2087 [VLESS]",
-      "server": "198.41.209.58",
+      "tag": "104.17.17.194:8443 [VLESS]",
+      "server": "104.17.17.194",
+      "server_port": 8443,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "104.19.51.246:443 [VLESS]",
+      "server": "104.19.51.246",
+      "server_port": 443,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "104.17.50.53:2096 [VLESS]",
+      "server": "104.17.50.53",
+      "server_port": 2096,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "104.26.1.4:8443 [VLESS]",
+      "server": "104.26.1.4",
+      "server_port": 8443,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "104.17.219.122:2083 [VLESS]",
+      "server": "104.17.219.122",
+      "server_port": 2083,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "8.39.125.123:2083 [VLESS]",
+      "server": "8.39.125.123",
+      "server_port": 2083,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "104.17.98.147:8443 [VLESS]",
+      "server": "104.17.98.147",
+      "server_port": 8443,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "8.35.211.106:2083 [VLESS]",
+      "server": "8.35.211.106",
+      "server_port": 2083,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "104.17.123.235:2083 [VLESS]",
+      "server": "104.17.123.235",
+      "server_port": 2083,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "198.41.223.18:2083 [VLESS]",
+      "server": "198.41.223.18",
+      "server_port": 2083,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "104.17.118.41:2096 [VLESS]",
+      "server": "104.17.118.41",
+      "server_port": 2096,
+      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "seramic.qzz.io"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "seramic.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "104.17.121.202:2087 [VLESS]",
+      "server": "104.17.121.202",
       "server_port": 2087,
       "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
       "transport": {
@@ -203,238 +456,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.18.33.132:2083 [VLESS]",
-      "server": "104.18.33.132",
-      "server_port": 2083,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 198.41.208.215:8443 [VLESS]",
-      "server": "198.41.208.215",
-      "server_port": 8443,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.28.242:2083 [VLESS]",
-      "server": "104.17.28.242",
-      "server_port": 2083,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 91.193.58.10:2096 [VLESS]",
-      "server": "91.193.58.10",
-      "server_port": 2096,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.18.33.179:2083 [VLESS]",
-      "server": "104.18.33.179",
-      "server_port": 2083,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.32.211:2083 [VLESS]",
-      "server": "104.19.32.211",
-      "server_port": 2083,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.145.231:2083 [VLESS]",
-      "server": "104.17.145.231",
-      "server_port": 2083,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.50.67:443 [VLESS]",
-      "server": "104.19.50.67",
-      "server_port": 443,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.156.156:2096 [VLESS]",
-      "server": "104.17.156.156",
-      "server_port": 2096,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.55.234:2096 [VLESS]",
-      "server": "104.17.55.234",
-      "server_port": 2096,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.159.15:2053 [VLESS]",
-      "server": "104.17.159.15",
+      "tag": "104.17.51.96:2053 [VLESS]",
+      "server": "104.17.51.96",
       "server_port": 2053,
       "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
       "transport": {
@@ -456,32 +479,9 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.149.199:8443 [VLESS]",
-      "server": "104.19.149.199",
+      "tag": "104.17.218.65:8443 [VLESS]",
+      "server": "104.17.218.65",
       "server_port": 8443,
-      "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "seramic.qzz.io"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "seramic.qzz.io",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 198.41.209.10:2083 [VLESS]",
-      "server": "198.41.209.10",
-      "server_port": 2083,
       "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
       "transport": {
         "path": "/",
@@ -510,46 +510,46 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "DIRECT",
-        "سرویس رایگان نوا seramic.qzz.io:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.121.95:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.202:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.58:2087 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.132:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.215:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.242:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.10:2096 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.179:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.211:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.145.231:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.50.67:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.156:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.55.234:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.159.15:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.149.199:8443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.10:2083 [VLESS]"
+        "seramic.qzz.io:443 [VLESS]",
+        "104.19.32.237:8443 [VLESS]",
+        "104.19.150.48:443 [VLESS]",
+        "104.17.17.194:8443 [VLESS]",
+        "104.19.51.246:443 [VLESS]",
+        "104.17.50.53:2096 [VLESS]",
+        "104.26.1.4:8443 [VLESS]",
+        "104.17.219.122:2083 [VLESS]",
+        "8.39.125.123:2083 [VLESS]",
+        "104.17.98.147:8443 [VLESS]",
+        "8.35.211.106:2083 [VLESS]",
+        "104.17.123.235:2083 [VLESS]",
+        "198.41.223.18:2083 [VLESS]",
+        "104.17.118.41:2096 [VLESS]",
+        "104.17.121.202:2087 [VLESS]",
+        "104.17.51.96:2053 [VLESS]",
+        "104.17.218.65:8443 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "♻️ 自动选择",
       "outbounds": [
-        "سرویس رایگان نوا seramic.qzz.io:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.121.95:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.202:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.58:2087 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.132:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.215:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.242:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.10:2096 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.179:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.211:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.145.231:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.50.67:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.156:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.55.234:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.159.15:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.149.199:8443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.10:2083 [VLESS]"
+        "seramic.qzz.io:443 [VLESS]",
+        "104.19.32.237:8443 [VLESS]",
+        "104.19.150.48:443 [VLESS]",
+        "104.17.17.194:8443 [VLESS]",
+        "104.19.51.246:443 [VLESS]",
+        "104.17.50.53:2096 [VLESS]",
+        "104.26.1.4:8443 [VLESS]",
+        "104.17.219.122:2083 [VLESS]",
+        "8.39.125.123:2083 [VLESS]",
+        "104.17.98.147:8443 [VLESS]",
+        "8.35.211.106:2083 [VLESS]",
+        "104.17.123.235:2083 [VLESS]",
+        "198.41.223.18:2083 [VLESS]",
+        "104.17.118.41:2096 [VLESS]",
+        "104.17.121.202:2087 [VLESS]",
+        "104.17.51.96:2053 [VLESS]",
+        "104.17.218.65:8443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -559,46 +559,46 @@
       "type": "urltest",
       "tag": "🔯 故障转移",
       "outbounds": [
-        "سرویس رایگان نوا seramic.qzz.io:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.121.95:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.202:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.58:2087 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.132:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.215:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.242:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.10:2096 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.179:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.211:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.145.231:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.50.67:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.156:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.55.234:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.159.15:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.149.199:8443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.10:2083 [VLESS]"
+        "seramic.qzz.io:443 [VLESS]",
+        "104.19.32.237:8443 [VLESS]",
+        "104.19.150.48:443 [VLESS]",
+        "104.17.17.194:8443 [VLESS]",
+        "104.19.51.246:443 [VLESS]",
+        "104.17.50.53:2096 [VLESS]",
+        "104.26.1.4:8443 [VLESS]",
+        "104.17.219.122:2083 [VLESS]",
+        "8.39.125.123:2083 [VLESS]",
+        "104.17.98.147:8443 [VLESS]",
+        "8.35.211.106:2083 [VLESS]",
+        "104.17.123.235:2083 [VLESS]",
+        "198.41.223.18:2083 [VLESS]",
+        "104.17.118.41:2096 [VLESS]",
+        "104.17.121.202:2087 [VLESS]",
+        "104.17.51.96:2053 [VLESS]",
+        "104.17.218.65:8443 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "🔮 负载均衡",
       "outbounds": [
-        "سرویس رایگان نوا seramic.qzz.io:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.121.95:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.202:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.58:2087 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.132:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.215:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.242:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.10:2096 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.179:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.211:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.145.231:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.50.67:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.156:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.55.234:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.159.15:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.149.199:8443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.10:2083 [VLESS]"
+        "seramic.qzz.io:443 [VLESS]",
+        "104.19.32.237:8443 [VLESS]",
+        "104.19.150.48:443 [VLESS]",
+        "104.17.17.194:8443 [VLESS]",
+        "104.19.51.246:443 [VLESS]",
+        "104.17.50.53:2096 [VLESS]",
+        "104.26.1.4:8443 [VLESS]",
+        "104.17.219.122:2083 [VLESS]",
+        "8.39.125.123:2083 [VLESS]",
+        "104.17.98.147:8443 [VLESS]",
+        "8.35.211.106:2083 [VLESS]",
+        "104.17.123.235:2083 [VLESS]",
+        "198.41.223.18:2083 [VLESS]",
+        "104.17.118.41:2096 [VLESS]",
+        "104.17.121.202:2087 [VLESS]",
+        "104.17.51.96:2053 [VLESS]",
+        "104.17.218.65:8443 [VLESS]"
       ]
     },
     {
@@ -633,23 +633,23 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا seramic.qzz.io:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.121.95:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.202:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.58:2087 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.132:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.215:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.242:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.10:2096 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.179:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.211:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.145.231:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.50.67:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.156:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.55.234:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.159.15:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.149.199:8443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.10:2083 [VLESS]"
+        "seramic.qzz.io:443 [VLESS]",
+        "104.19.32.237:8443 [VLESS]",
+        "104.19.150.48:443 [VLESS]",
+        "104.17.17.194:8443 [VLESS]",
+        "104.19.51.246:443 [VLESS]",
+        "104.17.50.53:2096 [VLESS]",
+        "104.26.1.4:8443 [VLESS]",
+        "104.17.219.122:2083 [VLESS]",
+        "8.39.125.123:2083 [VLESS]",
+        "104.17.98.147:8443 [VLESS]",
+        "8.35.211.106:2083 [VLESS]",
+        "104.17.123.235:2083 [VLESS]",
+        "198.41.223.18:2083 [VLESS]",
+        "104.17.118.41:2096 [VLESS]",
+        "104.17.121.202:2087 [VLESS]",
+        "104.17.51.96:2053 [VLESS]",
+        "104.17.218.65:8443 [VLESS]"
       ]
     },
     {
@@ -664,23 +664,23 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا seramic.qzz.io:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.121.95:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.202:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.58:2087 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.132:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.215:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.242:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.10:2096 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.179:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.211:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.145.231:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.50.67:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.156:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.55.234:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.159.15:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.149.199:8443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.10:2083 [VLESS]"
+        "seramic.qzz.io:443 [VLESS]",
+        "104.19.32.237:8443 [VLESS]",
+        "104.19.150.48:443 [VLESS]",
+        "104.17.17.194:8443 [VLESS]",
+        "104.19.51.246:443 [VLESS]",
+        "104.17.50.53:2096 [VLESS]",
+        "104.26.1.4:8443 [VLESS]",
+        "104.17.219.122:2083 [VLESS]",
+        "8.39.125.123:2083 [VLESS]",
+        "104.17.98.147:8443 [VLESS]",
+        "8.35.211.106:2083 [VLESS]",
+        "104.17.123.235:2083 [VLESS]",
+        "198.41.223.18:2083 [VLESS]",
+        "104.17.118.41:2096 [VLESS]",
+        "104.17.121.202:2087 [VLESS]",
+        "104.17.51.96:2053 [VLESS]",
+        "104.17.218.65:8443 [VLESS]"
       ]
     },
     {
@@ -690,23 +690,23 @@
         "📢 https://t.me/irnova_proxy",
         "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01",
         "DIRECT",
-        "سرویس رایگان نوا seramic.qzz.io:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.121.95:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.202:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.58:2087 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.132:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.215:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.242:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.10:2096 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.179:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.211:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.145.231:2083 [VLESS]",
-        "سرویس رایگان نوا 104.19.50.67:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.156:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.55.234:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.159.15:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.149.199:8443 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.10:2083 [VLESS]"
+        "seramic.qzz.io:443 [VLESS]",
+        "104.19.32.237:8443 [VLESS]",
+        "104.19.150.48:443 [VLESS]",
+        "104.17.17.194:8443 [VLESS]",
+        "104.19.51.246:443 [VLESS]",
+        "104.17.50.53:2096 [VLESS]",
+        "104.26.1.4:8443 [VLESS]",
+        "104.17.219.122:2083 [VLESS]",
+        "8.39.125.123:2083 [VLESS]",
+        "104.17.98.147:8443 [VLESS]",
+        "8.35.211.106:2083 [VLESS]",
+        "104.17.123.235:2083 [VLESS]",
+        "198.41.223.18:2083 [VLESS]",
+        "104.17.118.41:2096 [VLESS]",
+        "104.17.121.202:2087 [VLESS]",
+        "104.17.51.96:2053 [VLESS]",
+        "104.17.218.65:8443 [VLESS]"
       ]
     },
     {
