@@ -87,7 +87,7 @@
     },
     {
       "type": "vmess",
-      "tag": "📊 0.00GB / 9999GB (0%) | 📅 {Expiry}",
+      "tag": "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01",
       "server": "192.0.2.1",
       "server_port": 443,
       "uuid": "739fd712-07d4-4829-8022-6f77afbc81e3",
@@ -505,7 +505,7 @@
       "tag": "🚀 节点选择",
       "outbounds": [
         "📢 https://t.me/irnova_proxy",
-        "📊 0.00GB / 9999GB (0%) | 📅 {Expiry}",
+        "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01",
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
@@ -606,7 +606,7 @@
       "tag": "🎯 全球直连",
       "outbounds": [
         "📢 https://t.me/irnova_proxy",
-        "📊 0.00GB / 9999GB (0%) | 📅 {Expiry}",
+        "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01",
         "DIRECT",
         "🚀 节点选择",
         "♻️ 自动选择"
@@ -617,7 +617,7 @@
       "tag": "🛑 全球拦截",
       "outbounds": [
         "📢 https://t.me/irnova_proxy",
-        "📊 0.00GB / 9999GB (0%) | 📅 {Expiry}",
+        "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01",
         "REJECT",
         "DIRECT"
       ]
@@ -627,7 +627,7 @@
       "tag": "🐟 漏网之鱼",
       "outbounds": [
         "📢 https://t.me/irnova_proxy",
-        "📊 0.00GB / 9999GB (0%) | 📅 {Expiry}",
+        "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01",
         "🚀 节点选择",
         "🎯 全球直连",
         "♻️ 自动选择",
@@ -657,7 +657,7 @@
       "tag": "☁️ CloudFlareCDN",
       "outbounds": [
         "📢 https://t.me/irnova_proxy",
-        "📊 0.00GB / 9999GB (0%) | 📅 {Expiry}",
+        "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01",
         "🐟 漏网之鱼",
         "🚀 节点选择",
         "🎯 全球直连",
@@ -688,7 +688,7 @@
       "tag": "GLOBAL",
       "outbounds": [
         "📢 https://t.me/irnova_proxy",
-        "📊 0.00GB / 9999GB (0%) | 📅 {Expiry}",
+        "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01",
         "DIRECT",
         "سرویس رایگان نوا seramic.qzz.io:443 [VLESS]",
         "سرویس رایگان نوا 104.17.121.95:2083 [VLESS]",
