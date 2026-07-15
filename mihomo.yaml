@@ -29,50 +29,52 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, alterId: 0, cipher: auto, tls: true, servername: seramic.qzz.io, network: ws, ws-opts: {path: /?fake=1, headers: {Host: seramic.qzz.io}}, udp: false}
+  - {name: "📊 0.00GB / 9999GB (0%) |", server: 192.0.2.1, port: 443, type: vmess, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, alterId: 0, cipher: auto, tls: true, servername: seramic.qzz.io, network: ws, ws-opts: {path: /?fake=1, headers: {Host: seramic.qzz.io}}, udp: false}
+  - {name: "📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, alterId: 0, cipher: auto, tls: true, servername: seramic.qzz.io, network: ws, ws-opts: {path: /?fake=1, headers: {Host: seramic.qzz.io}}, udp: false}
   - {name: "seramic.qzz.io:443 [VLESS]", server: seramic.qzz.io, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "104.19.33.223:2053 [VLESS]", server: 104.19.33.223, port: 2053, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "198.41.223.123:2087 [VLESS]", server: 198.41.223.123, port: 2087, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "162.159.38.211:443 [VLESS]", server: 162.159.38.211, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "188.164.248.44:2083 [VLESS]", server: 188.164.248.44, port: 2083, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "162.159.35.35:2096 [VLESS]", server: 162.159.35.35, port: 2096, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "104.18.33.190:2096 [VLESS]", server: 104.18.33.190, port: 2096, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "104.16.150.245:2053 [VLESS]", server: 104.16.150.245, port: 2053, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "104.17.102.90:2053 [VLESS]", server: 104.17.102.90, port: 2053, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "162.159.47.50:2087 [VLESS]", server: 162.159.47.50, port: 2087, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "104.17.218.12:2053 [VLESS]", server: 104.17.218.12, port: 2053, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "198.41.223.126:443 [VLESS]", server: 198.41.223.126, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "198.41.223.48:2087 [VLESS]", server: 198.41.223.48, port: 2087, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "104.19.151.144:2087 [VLESS]", server: 104.19.151.144, port: 2087, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "104.16.255.96:2053 [VLESS]", server: 104.16.255.96, port: 2053, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "104.26.1.195:8443 [VLESS]", server: 104.26.1.195, port: 8443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "91.193.58.15:8443 [VLESS]", server: 91.193.58.15, port: 8443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "108.162.198.111:443 [VLESS]", server: 108.162.198.111, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "162.159.46.248:2087 [VLESS]", server: 162.159.46.248, port: 2087, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "104.18.33.38:2053 [VLESS]", server: 104.18.33.38, port: 2053, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "8.35.211.145:443 [VLESS]", server: 8.35.211.145, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "162.159.39.197:2053 [VLESS]", server: 162.159.39.197, port: 2053, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "104.17.105.250:443 [VLESS]", server: 104.17.105.250, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "8.39.125.166:8443 [VLESS]", server: 8.39.125.166, port: 8443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "104.17.191.66:2083 [VLESS]", server: 104.17.191.66, port: 2083, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "172.66.0.42:443 [VLESS]", server: 172.66.0.42, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "188.164.248.44:2053 [VLESS]", server: 188.164.248.44, port: 2053, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "104.17.56.170:443 [VLESS]", server: 104.17.56.170, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "104.17.63.163:443 [VLESS]", server: 104.17.63.163, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "8.39.125.90:2096 [VLESS]", server: 8.39.125.90, port: 2096, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "104.17.168.177:443 [VLESS]", server: 104.17.168.177, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "104.17.177.18:2087 [VLESS]", server: 104.17.177.18, port: 2087, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "104.17.161.210:8443 [VLESS]", server: 104.17.161.210, port: 8443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01"
+      - "📊 0.00GB / 9999GB (0%) |"
+      - "📅 2099-01-01"
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
       - seramic.qzz.io:443 [VLESS]
-      - 104.19.33.223:2053 [VLESS]
-      - 198.41.223.123:2087 [VLESS]
-      - 162.159.38.211:443 [VLESS]
-      - 188.164.248.44:2083 [VLESS]
-      - 162.159.35.35:2096 [VLESS]
-      - 104.18.33.190:2096 [VLESS]
-      - 104.16.150.245:2053 [VLESS]
-      - 104.17.102.90:2053 [VLESS]
-      - 162.159.47.50:2087 [VLESS]
-      - 104.17.218.12:2053 [VLESS]
-      - 198.41.223.126:443 [VLESS]
-      - 198.41.223.48:2087 [VLESS]
-      - 104.19.151.144:2087 [VLESS]
-      - 104.16.255.96:2053 [VLESS]
-      - 104.26.1.195:8443 [VLESS]
-      - 91.193.58.15:8443 [VLESS]
+      - 108.162.198.111:443 [VLESS]
+      - 162.159.46.248:2087 [VLESS]
+      - 104.18.33.38:2053 [VLESS]
+      - 8.35.211.145:443 [VLESS]
+      - 162.159.39.197:2053 [VLESS]
+      - 104.17.105.250:443 [VLESS]
+      - 8.39.125.166:8443 [VLESS]
+      - 104.17.191.66:2083 [VLESS]
+      - 172.66.0.42:443 [VLESS]
+      - 188.164.248.44:2053 [VLESS]
+      - 104.17.56.170:443 [VLESS]
+      - 104.17.63.163:443 [VLESS]
+      - 8.39.125.90:2096 [VLESS]
+      - 104.17.168.177:443 [VLESS]
+      - 104.17.177.18:2087 [VLESS]
+      - 104.17.161.210:8443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -80,44 +82,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - seramic.qzz.io:443 [VLESS]
-      - 104.19.33.223:2053 [VLESS]
-      - 198.41.223.123:2087 [VLESS]
-      - 162.159.38.211:443 [VLESS]
-      - 188.164.248.44:2083 [VLESS]
-      - 162.159.35.35:2096 [VLESS]
-      - 104.18.33.190:2096 [VLESS]
-      - 104.16.150.245:2053 [VLESS]
-      - 104.17.102.90:2053 [VLESS]
-      - 162.159.47.50:2087 [VLESS]
-      - 104.17.218.12:2053 [VLESS]
-      - 198.41.223.126:443 [VLESS]
-      - 198.41.223.48:2087 [VLESS]
-      - 104.19.151.144:2087 [VLESS]
-      - 104.16.255.96:2053 [VLESS]
-      - 104.26.1.195:8443 [VLESS]
-      - 91.193.58.15:8443 [VLESS]
+      - 108.162.198.111:443 [VLESS]
+      - 162.159.46.248:2087 [VLESS]
+      - 104.18.33.38:2053 [VLESS]
+      - 8.35.211.145:443 [VLESS]
+      - 162.159.39.197:2053 [VLESS]
+      - 104.17.105.250:443 [VLESS]
+      - 8.39.125.166:8443 [VLESS]
+      - 104.17.191.66:2083 [VLESS]
+      - 172.66.0.42:443 [VLESS]
+      - 188.164.248.44:2053 [VLESS]
+      - 104.17.56.170:443 [VLESS]
+      - 104.17.63.163:443 [VLESS]
+      - 8.39.125.90:2096 [VLESS]
+      - 104.17.168.177:443 [VLESS]
+      - 104.17.177.18:2087 [VLESS]
+      - 104.17.161.210:8443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - seramic.qzz.io:443 [VLESS]
-      - 104.19.33.223:2053 [VLESS]
-      - 198.41.223.123:2087 [VLESS]
-      - 162.159.38.211:443 [VLESS]
-      - 188.164.248.44:2083 [VLESS]
-      - 162.159.35.35:2096 [VLESS]
-      - 104.18.33.190:2096 [VLESS]
-      - 104.16.150.245:2053 [VLESS]
-      - 104.17.102.90:2053 [VLESS]
-      - 162.159.47.50:2087 [VLESS]
-      - 104.17.218.12:2053 [VLESS]
-      - 198.41.223.126:443 [VLESS]
-      - 198.41.223.48:2087 [VLESS]
-      - 104.19.151.144:2087 [VLESS]
-      - 104.16.255.96:2053 [VLESS]
-      - 104.26.1.195:8443 [VLESS]
-      - 91.193.58.15:8443 [VLESS]
+      - 108.162.198.111:443 [VLESS]
+      - 162.159.46.248:2087 [VLESS]
+      - 104.18.33.38:2053 [VLESS]
+      - 8.35.211.145:443 [VLESS]
+      - 162.159.39.197:2053 [VLESS]
+      - 104.17.105.250:443 [VLESS]
+      - 8.39.125.166:8443 [VLESS]
+      - 104.17.191.66:2083 [VLESS]
+      - 172.66.0.42:443 [VLESS]
+      - 188.164.248.44:2053 [VLESS]
+      - 104.17.56.170:443 [VLESS]
+      - 104.17.63.163:443 [VLESS]
+      - 8.39.125.90:2096 [VLESS]
+      - 104.17.168.177:443 [VLESS]
+      - 104.17.177.18:2087 [VLESS]
+      - 104.17.161.210:8443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -125,65 +127,69 @@ proxy-groups:
     interval: 180
     proxies:
       - seramic.qzz.io:443 [VLESS]
-      - 104.19.33.223:2053 [VLESS]
-      - 198.41.223.123:2087 [VLESS]
-      - 162.159.38.211:443 [VLESS]
-      - 188.164.248.44:2083 [VLESS]
-      - 162.159.35.35:2096 [VLESS]
-      - 104.18.33.190:2096 [VLESS]
-      - 104.16.150.245:2053 [VLESS]
-      - 104.17.102.90:2053 [VLESS]
-      - 162.159.47.50:2087 [VLESS]
-      - 104.17.218.12:2053 [VLESS]
-      - 198.41.223.126:443 [VLESS]
-      - 198.41.223.48:2087 [VLESS]
-      - 104.19.151.144:2087 [VLESS]
-      - 104.16.255.96:2053 [VLESS]
-      - 104.26.1.195:8443 [VLESS]
-      - 91.193.58.15:8443 [VLESS]
+      - 108.162.198.111:443 [VLESS]
+      - 162.159.46.248:2087 [VLESS]
+      - 104.18.33.38:2053 [VLESS]
+      - 8.35.211.145:443 [VLESS]
+      - 162.159.39.197:2053 [VLESS]
+      - 104.17.105.250:443 [VLESS]
+      - 8.39.125.166:8443 [VLESS]
+      - 104.17.191.66:2083 [VLESS]
+      - 172.66.0.42:443 [VLESS]
+      - 188.164.248.44:2053 [VLESS]
+      - 104.17.56.170:443 [VLESS]
+      - 104.17.63.163:443 [VLESS]
+      - 8.39.125.90:2096 [VLESS]
+      - 104.17.168.177:443 [VLESS]
+      - 104.17.177.18:2087 [VLESS]
+      - 104.17.161.210:8443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
-      - "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01"
+      - "📊 0.00GB / 9999GB (0%) |"
+      - "📅 2099-01-01"
       - DIRECT
       - 🚀 节点选择
       - ♻️ 自动选择
   - name: 🛑 全球拦截
     type: select
     proxies:
-      - "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01"
+      - "📊 0.00GB / 9999GB (0%) |"
+      - "📅 2099-01-01"
       - REJECT
       - DIRECT
   - name: 🐟 漏网之鱼
     type: select
     proxies:
-      - "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01"
+      - "📊 0.00GB / 9999GB (0%) |"
+      - "📅 2099-01-01"
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
       - seramic.qzz.io:443 [VLESS]
-      - 104.19.33.223:2053 [VLESS]
-      - 198.41.223.123:2087 [VLESS]
-      - 162.159.38.211:443 [VLESS]
-      - 188.164.248.44:2083 [VLESS]
-      - 162.159.35.35:2096 [VLESS]
-      - 104.18.33.190:2096 [VLESS]
-      - 104.16.150.245:2053 [VLESS]
-      - 104.17.102.90:2053 [VLESS]
-      - 162.159.47.50:2087 [VLESS]
-      - 104.17.218.12:2053 [VLESS]
-      - 198.41.223.126:443 [VLESS]
-      - 198.41.223.48:2087 [VLESS]
-      - 104.19.151.144:2087 [VLESS]
-      - 104.16.255.96:2053 [VLESS]
-      - 104.26.1.195:8443 [VLESS]
-      - 91.193.58.15:8443 [VLESS]
+      - 108.162.198.111:443 [VLESS]
+      - 162.159.46.248:2087 [VLESS]
+      - 104.18.33.38:2053 [VLESS]
+      - 8.35.211.145:443 [VLESS]
+      - 162.159.39.197:2053 [VLESS]
+      - 104.17.105.250:443 [VLESS]
+      - 8.39.125.166:8443 [VLESS]
+      - 104.17.191.66:2083 [VLESS]
+      - 172.66.0.42:443 [VLESS]
+      - 188.164.248.44:2053 [VLESS]
+      - 104.17.56.170:443 [VLESS]
+      - 104.17.63.163:443 [VLESS]
+      - 8.39.125.90:2096 [VLESS]
+      - 104.17.168.177:443 [VLESS]
+      - 104.17.177.18:2087 [VLESS]
+      - 104.17.161.210:8443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
-      - "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01"
+      - "📊 0.00GB / 9999GB (0%) |"
+      - "📅 2099-01-01"
       - 🐟 漏网之鱼
       - 🚀 节点选择
       - 🎯 全球直连
@@ -191,22 +197,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - seramic.qzz.io:443 [VLESS]
-      - 104.19.33.223:2053 [VLESS]
-      - 198.41.223.123:2087 [VLESS]
-      - 162.159.38.211:443 [VLESS]
-      - 188.164.248.44:2083 [VLESS]
-      - 162.159.35.35:2096 [VLESS]
-      - 104.18.33.190:2096 [VLESS]
-      - 104.16.150.245:2053 [VLESS]
-      - 104.17.102.90:2053 [VLESS]
-      - 162.159.47.50:2087 [VLESS]
-      - 104.17.218.12:2053 [VLESS]
-      - 198.41.223.126:443 [VLESS]
-      - 198.41.223.48:2087 [VLESS]
-      - 104.19.151.144:2087 [VLESS]
-      - 104.16.255.96:2053 [VLESS]
-      - 104.26.1.195:8443 [VLESS]
-      - 91.193.58.15:8443 [VLESS]
+      - 108.162.198.111:443 [VLESS]
+      - 162.159.46.248:2087 [VLESS]
+      - 104.18.33.38:2053 [VLESS]
+      - 8.35.211.145:443 [VLESS]
+      - 162.159.39.197:2053 [VLESS]
+      - 104.17.105.250:443 [VLESS]
+      - 8.39.125.166:8443 [VLESS]
+      - 104.17.191.66:2083 [VLESS]
+      - 172.66.0.42:443 [VLESS]
+      - 188.164.248.44:2053 [VLESS]
+      - 104.17.56.170:443 [VLESS]
+      - 104.17.63.163:443 [VLESS]
+      - 8.39.125.90:2096 [VLESS]
+      - 104.17.168.177:443 [VLESS]
+      - 104.17.177.18:2087 [VLESS]
+      - 104.17.161.210:8443 [VLESS]
 rules:
 # PHISHING BLOCK RULES
   - GEOSITE,category-phishing,REJECT
