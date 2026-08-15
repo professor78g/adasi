@@ -144,6 +144,9 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 172.65.188.222:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 141.101.71.216:443 [VLESS]
 rules:
+# IRANIAN DIRECT RULES
+  - DOMAIN-SUFFIX,ir,DIRECT
+  - GEOIP,IR,DIRECT,no-resolve
   - DOMAIN-SUFFIX,play.googleapis.com,🚀 节点选择
   - DOMAIN-SUFFIX,play-fe.googleapis.com,🚀 节点选择
   - DOMAIN-SUFFIX,play-lh.googleusercontent.com,🚀 节点选择
