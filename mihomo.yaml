@@ -31,14 +31,14 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: "📢 https://t.me/irnova_proxy", server: 192.0.2.1, port: 443, type: vmess, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, alterId: 0, cipher: auto, tls: true, servername: "seramic.qzz.io", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "seramic.qzz.io"}}, udp: false}
   - {name: "📊 0.00GB / 9999GB (0%) | 📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, alterId: 0, cipher: auto, tls: true, servername: "seramic.qzz.io", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "seramic.qzz.io"}}, udp: false}
-  - {name: "سرویس رایگان نوا @irnova_proxy seramic.qzz.io:443 [VLESS]", server: seramic.qzz.io, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.60.242:443 [VLESS]", server: 104.17.60.242, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.209.215:443 [VLESS]", server: 198.41.209.215, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.208.228:443 [VLESS]", server: 198.41.208.228, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.108.109:443 [VLESS]", server: 104.17.108.109, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.173.203:443 [VLESS]", server: 104.17.173.203, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.33.248:443 [VLESS]", server: 104.19.33.248, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.209.47:443 [VLESS]", server: 198.41.209.47, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy seramic.qzz.io:443 [VLESS]", server: seramic.qzz.io, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: unsafe, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.247.132:443 [VLESS]", server: 104.16.247.132, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: unsafe, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 162.159.38.66:443 [VLESS]", server: 162.159.38.66, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: unsafe, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.158.143:443 [VLESS]", server: 104.16.158.143, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: unsafe, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.149.225:443 [VLESS]", server: 104.17.149.225, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: unsafe, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 162.159.32.118:443 [VLESS]", server: 162.159.32.118, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: unsafe, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 188.164.248.24:443 [VLESS]", server: 188.164.248.24, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: unsafe, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.148.36:443 [VLESS]", server: 104.16.148.36, port: 443, type: vless, uuid: 739fd712-07d4-4829-8022-6f77afbc81e3, tls: true, skip-cert-verify: false, servername: seramic.qzz.io, client-fingerprint: unsafe, network: ws, ws-opts: {path: /, headers: {Host: seramic.qzz.io}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -50,13 +50,13 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا @irnova_proxy seramic.qzz.io:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.60.242:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.215:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.228:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.108.109:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.173.203:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.33.248:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.47:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.247.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.66:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.143:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.149.225:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.32.118:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.24:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.148.36:443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -64,26 +64,26 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا @irnova_proxy seramic.qzz.io:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.60.242:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.215:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.228:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.108.109:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.173.203:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.33.248:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.47:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.247.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.66:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.143:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.149.225:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.32.118:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.24:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.148.36:443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova_proxy seramic.qzz.io:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.60.242:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.215:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.228:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.108.109:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.173.203:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.33.248:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.47:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.247.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.66:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.143:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.149.225:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.32.118:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.24:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.148.36:443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -91,13 +91,13 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova_proxy seramic.qzz.io:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.60.242:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.215:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.228:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.108.109:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.173.203:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.33.248:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.47:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.247.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.66:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.143:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.149.225:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.32.118:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.24:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.148.36:443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -124,13 +124,13 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova_proxy seramic.qzz.io:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.60.242:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.215:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.228:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.108.109:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.173.203:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.33.248:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.47:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.247.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.66:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.143:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.149.225:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.32.118:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.24:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.148.36:443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -143,13 +143,13 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova_proxy seramic.qzz.io:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.60.242:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.215:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.208.228:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.108.109:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.173.203:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.33.248:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.47:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.247.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.38.66:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.158.143:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.149.225:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 162.159.32.118:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.24:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.148.36:443 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
