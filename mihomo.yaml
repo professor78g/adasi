@@ -32,36 +32,36 @@ proxies:
   - {name: "📢 https://t.me/irnova", server: 192.0.2.1, port: 443, type: vmess, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, alterId: 0, cipher: auto, tls: true, servername: "hazel-daisy-066d-784cc86b.pages.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "hazel-daisy-066d-784cc86b.pages.dev"}}, udp: false}
   - {name: "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, alterId: 0, cipher: auto, tls: true, servername: "hazel-daisy-066d-784cc86b.pages.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "hazel-daisy-066d-784cc86b.pages.dev"}}, udp: false}
   - {name: "سرویس رایگان نوا @irnova hazel-daisy-066d-784cc86b.pages.dev:443 [VLESS]", server: hazel-daisy-066d-784cc86b.pages.dev, port: 443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 108.162.198.173:2087 [VLESS]", server: 108.162.198.173, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.18.33.30:2053 [VLESS]", server: 104.18.33.30, port: 2053, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]", server: 188.164.248.19, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.162.136:443 [VLESS]", server: 104.17.162.136, port: 443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 108.162.198.75:2053 [VLESS]", server: 108.162.198.75, port: 2053, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 8.35.211.216:2087 [VLESS]", server: 8.35.211.216, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.148.15:2087 [VLESS]", server: 104.16.148.15, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.0.109:8443 [VLESS]", server: 172.66.0.109, port: 8443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.38.123:2083 [VLESS]", server: 162.159.38.123, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 8.39.125.25:2053 [VLESS]", server: 8.39.125.25, port: 2053, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.164.248.103:8443 [VLESS]", server: 188.164.248.103, port: 8443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 91.193.59.52:2083 [VLESS]", server: 91.193.59.52, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.120.138:2096 [VLESS]", server: 104.17.120.138, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.242.30:8443 [VLESS]", server: 104.16.242.30, port: 8443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 8.35.211.136:2096 [VLESS]", server: 8.35.211.136, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.146.23:443 [VLESS]", server: 104.19.146.23, port: 443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.175.5:2096 [VLESS]", server: 104.17.175.5, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 198.41.208.120:2083 [VLESS]", server: 198.41.208.120, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.41.183:2083 [VLESS]", server: 162.159.41.183, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.18.33.202:2096 [VLESS]", server: 104.18.33.202, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.171.150:2087 [VLESS]", server: 104.17.171.150, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.113.47:2083 [VLESS]", server: 104.17.113.47, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 198.41.208.238:2083 [VLESS]", server: 198.41.208.238, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.39.79:443 [VLESS]", server: 162.159.39.79, port: 443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.164.248.171:2087 [VLESS]", server: 188.164.248.171, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 188.164.248.153:2053 [VLESS]", server: 188.164.248.153, port: 2053, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.36.66:2096 [VLESS]", server: 162.159.36.66, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.191.45:2096 [VLESS]", server: 104.17.191.45, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.150.18:2087 [VLESS]", server: 104.16.150.18, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
-  - {name: "سرویس رایگان نوا @irnova 108.162.198.159:2053 [VLESS]", server: 108.162.198.159, port: 2053, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.102.133:2087 [VLESS]", server: 104.17.102.133, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.79.204:443 [VLESS]", server: 172.67.79.204, port: 443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.148.156:2083 [VLESS]", server: 104.17.148.156, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 108.162.198.87:2083 [VLESS]", server: 108.162.198.87, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.38.242:2087 [VLESS]", server: 162.159.38.242, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.164.248.246:8443 [VLESS]", server: 188.164.248.246, port: 8443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 198.41.209.190:443 [VLESS]", server: 198.41.209.190, port: 443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 188.164.248.49:2087 [VLESS]", server: 188.164.248.49, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.33.242:8443 [VLESS]", server: 104.19.33.242, port: 8443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 8.35.211.91:2096 [VLESS]", server: 8.35.211.91, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.161.10:2053 [VLESS]", server: 104.17.161.10, port: 2053, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.147.86:443 [VLESS]", server: 104.19.147.86, port: 443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.151.25:2096 [VLESS]", server: 104.16.151.25, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 8.39.125.79:2083 [VLESS]", server: 8.39.125.79, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.153.100:443 [VLESS]", server: 104.17.153.100, port: 443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.166.219:2096 [VLESS]", server: 104.17.166.219, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.157.212:8443 [VLESS]", server: 104.16.157.212, port: 8443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.156.73:2083 [VLESS]", server: 104.16.156.73, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.106.153:2087 [VLESS]", server: 104.17.106.153, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 198.41.208.162:2053 [VLESS]", server: 198.41.208.162, port: 2053, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 91.193.59.112:2053 [VLESS]", server: 91.193.59.112, port: 2053, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.26.12.29:443 [VLESS]", server: 104.26.12.29, port: 443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.148.5:2096 [VLESS]", server: 104.16.148.5, port: 2096, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.32.150:443 [VLESS]", server: 104.19.32.150, port: 443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.39.146:2053 [VLESS]", server: 162.159.39.146, port: 2053, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 8.39.125.138:2083 [VLESS]", server: 8.39.125.138, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.118.34:2087 [VLESS]", server: 104.17.118.34, port: 2087, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 8.39.125.254:2083 [VLESS]", server: 8.39.125.254, port: 2083, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.181.231:8443 [VLESS]", server: 104.17.181.231, port: 8443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.19.137:8443 [VLESS]", server: 104.17.19.137, port: 8443, type: vless, uuid: 47cca19a-e7b7-428e-9408-86a7a4bd60e3, tls: true, skip-cert-verify: false, servername: hazel-daisy-066d-784cc86b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /e6f475fba74b, headers: {Host: hazel-daisy-066d-784cc86b.pages.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -73,36 +73,36 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا @irnova hazel-daisy-066d-784cc86b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.173:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.30:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.162.136:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.75:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.216:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.15:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.109:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.123:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.25:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.103:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 91.193.59.52:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.138:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.242.30:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.136:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.23:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.5:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.41.183:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.202:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.171.150:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.113.47:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.238:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.39.79:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.171:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.153:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.66:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.191.45:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.18:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.159:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.102.133:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.204:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.156:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 108.162.198.87:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.246:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.190:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.49:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.242:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.91:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.161.10:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.147.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.25:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.79:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.153.100:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.219:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.157.212:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.156.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.106.153:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.208.162:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.59.112:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.29:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.148.5:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.32.150:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.146:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.138:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.118.34:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.254:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.137:8443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -110,72 +110,72 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا @irnova hazel-daisy-066d-784cc86b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.173:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.30:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.162.136:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.75:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.216:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.15:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.109:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.123:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.25:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.103:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 91.193.59.52:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.138:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.242.30:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.136:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.23:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.5:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.41.183:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.202:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.171.150:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.113.47:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.238:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.39.79:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.171:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.153:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.66:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.191.45:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.18:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.159:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.102.133:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.204:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.156:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 108.162.198.87:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.246:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.190:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.49:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.242:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.91:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.161.10:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.147.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.25:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.79:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.153.100:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.219:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.157.212:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.156.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.106.153:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.208.162:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.59.112:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.29:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.148.5:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.32.150:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.146:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.138:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.118.34:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.254:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.137:8443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova hazel-daisy-066d-784cc86b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.173:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.30:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.162.136:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.75:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.216:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.15:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.109:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.123:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.25:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.103:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 91.193.59.52:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.138:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.242.30:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.136:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.23:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.5:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.41.183:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.202:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.171.150:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.113.47:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.238:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.39.79:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.171:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.153:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.66:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.191.45:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.18:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.159:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.102.133:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.204:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.156:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 108.162.198.87:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.246:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.190:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.49:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.242:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.91:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.161.10:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.147.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.25:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.79:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.153.100:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.219:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.157.212:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.156.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.106.153:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.208.162:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.59.112:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.29:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.148.5:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.32.150:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.146:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.138:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.118.34:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.254:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.137:8443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -183,36 +183,36 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova hazel-daisy-066d-784cc86b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.173:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.30:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.162.136:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.75:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.216:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.15:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.109:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.123:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.25:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.103:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 91.193.59.52:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.138:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.242.30:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.136:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.23:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.5:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.41.183:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.202:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.171.150:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.113.47:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.238:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.39.79:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.171:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.153:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.66:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.191.45:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.18:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.159:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.102.133:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.204:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.156:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 108.162.198.87:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.246:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.190:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.49:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.242:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.91:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.161.10:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.147.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.25:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.79:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.153.100:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.219:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.157.212:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.156.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.106.153:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.208.162:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.59.112:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.29:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.148.5:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.32.150:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.146:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.138:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.118.34:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.254:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.137:8443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -239,36 +239,36 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova hazel-daisy-066d-784cc86b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.173:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.30:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.162.136:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.75:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.216:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.15:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.109:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.123:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.25:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.103:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 91.193.59.52:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.138:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.242.30:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.136:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.23:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.5:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.41.183:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.202:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.171.150:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.113.47:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.238:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.39.79:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.171:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.153:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.66:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.191.45:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.18:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.159:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.102.133:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.204:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.156:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 108.162.198.87:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.246:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.190:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.49:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.242:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.91:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.161.10:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.147.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.25:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.79:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.153.100:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.219:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.157.212:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.156.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.106.153:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.208.162:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.59.112:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.29:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.148.5:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.32.150:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.146:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.138:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.118.34:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.254:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.137:8443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -281,36 +281,36 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova hazel-daisy-066d-784cc86b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.173:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.30:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.19:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.162.136:443 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.75:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.216:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.148.15:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.109:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.38.123:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 8.39.125.25:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.103:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 91.193.59.52:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.120.138:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.242.30:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 8.35.211.136:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.146.23:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.175.5:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.41.183:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.202:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.171.150:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.113.47:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.238:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.39.79:443 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.171:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 188.164.248.153:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.36.66:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.191.45:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.150.18:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 108.162.198.159:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.102.133:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.79.204:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.148.156:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 108.162.198.87:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.38.242:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.246:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.209.190:443 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.49:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.33.242:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.91:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.161.10:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.147.86:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.151.25:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.79:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.153.100:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.166.219:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.157.212:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.156.73:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.106.153:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 198.41.208.162:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.59.112:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.26.12.29:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.148.5:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.32.150:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.39.146:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.138:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.118.34:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.39.125.254:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.181.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.137:8443 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
