@@ -35,36 +35,36 @@ proxies:
   - {name: "📢 https://t.me/irnova", server: 192.0.2.1, port: 443, type: vmess, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, alterId: 0, cipher: auto, tls: true, servername: "misty-otter-8c2a-465f670b.pages.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "misty-otter-8c2a-465f670b.pages.dev"}}, udp: false}
   - {name: "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, alterId: 0, cipher: auto, tls: true, servername: "misty-otter-8c2a-465f670b.pages.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "misty-otter-8c2a-465f670b.pages.dev"}}, udp: false}
   - {name: "سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]", server: misty-otter-8c2a-465f670b.pages.dev, port: 443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.67.251.60:2053 [VLESS]", server: 172.67.251.60, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.64.156.43:2096 [VLESS]", server: 172.64.156.43, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 198.41.208.120:443 [VLESS]", server: 198.41.208.120, port: 443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.138.119:2083 [VLESS]", server: 162.159.138.119, port: 2083, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.0.134:2096 [VLESS]", server: 172.66.0.134, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.111.80:2053 [VLESS]", server: 104.17.111.80, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 198.41.209.61:2053 [VLESS]", server: 198.41.209.61, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.102.44:2096 [VLESS]", server: 104.17.102.44, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.64.150.236:2053 [VLESS]", server: 172.64.150.236, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.20.30.94:2083 [VLESS]", server: 104.20.30.94, port: 2083, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.129.12:2053 [VLESS]", server: 172.66.129.12, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.49.57:8443 [VLESS]", server: 104.17.49.57, port: 8443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.30.40:2083 [VLESS]", server: 104.17.30.40, port: 2083, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.121.141:443 [VLESS]", server: 104.17.121.141, port: 443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.18.33.208:2053 [VLESS]", server: 104.18.33.208, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.1.55:2096 [VLESS]", server: 172.66.1.55, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.129.197:2083 [VLESS]", server: 172.66.129.197, port: 2083, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.64.83.203:2087 [VLESS]", server: 172.64.83.203, port: 2087, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.164.13:2087 [VLESS]", server: 104.17.164.13, port: 2087, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.138.229:2087 [VLESS]", server: 104.17.138.229, port: 2087, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.17.182:2053 [VLESS]", server: 104.19.17.182, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 162.159.45.210:2083 [VLESS]", server: 162.159.45.210, port: 2083, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.19.57.165:8443 [VLESS]", server: 104.19.57.165, port: 8443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.64.153.160:2096 [VLESS]", server: 172.64.153.160, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.103.105:443 [VLESS]", server: 104.17.103.105, port: 443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.64.83.17:2096 [VLESS]", server: 172.64.83.17, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 172.66.129.51:2083 [VLESS]", server: 172.66.129.51, port: 2083, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.16.205.131:2087 [VLESS]", server: 104.16.205.131, port: 2087, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.17.151.22:443 [VLESS]", server: 104.17.151.22, port: 443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
-  - {name: "سرویس رایگان نوا @irnova 104.18.47.142:2096 [VLESS]", server: 104.18.47.142, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.64.154.127:2053 [VLESS]", server: 172.64.154.127, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.73.111:8443 [VLESS]", server: 172.67.73.111, port: 8443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.39.213:8443 [VLESS]", server: 104.18.39.213, port: 8443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.54.43:443 [VLESS]", server: 104.19.54.43, port: 443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.132.154:2096 [VLESS]", server: 104.17.132.154, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.236.43:2087 [VLESS]", server: 162.159.236.43, port: 2087, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.158.110:2087 [VLESS]", server: 162.159.158.110, port: 2087, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 8.35.211.0:2053 [VLESS]", server: 8.35.211.0, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 8.35.211.74:443 [VLESS]", server: 8.35.211.74, port: 443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.35.238:443 [VLESS]", server: 162.159.35.238, port: 443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.236.0:2083 [VLESS]", server: 162.159.236.0, port: 2083, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.138.128:2083 [VLESS]", server: 104.17.138.128, port: 2083, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.156.152:2087 [VLESS]", server: 172.67.156.152, port: 2087, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.168.85:2096 [VLESS]", server: 104.19.168.85, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.236.191:2083 [VLESS]", server: 162.159.236.191, port: 2083, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.18.33.195:2053 [VLESS]", server: 104.18.33.195, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.66.214.183:2053 [VLESS]", server: 172.66.214.183, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.97.53:2087 [VLESS]", server: 104.17.97.53, port: 2087, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 188.164.248.174:2053 [VLESS]", server: 188.164.248.174, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 141.101.113.196:443 [VLESS]", server: 141.101.113.196, port: 443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.67.163.87:8443 [VLESS]", server: 172.67.163.87, port: 8443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.17.19.20:8443 [VLESS]", server: 104.17.19.20, port: 8443, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.16.218.215:2083 [VLESS]", server: 104.16.218.215, port: 2083, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 141.101.113.147:2053 [VLESS]", server: 141.101.113.147, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 91.193.58.96:2096 [VLESS]", server: 91.193.58.96, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 91.193.58.207:2096 [VLESS]", server: 91.193.58.207, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.20.30.250:2096 [VLESS]", server: 104.20.30.250, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 104.19.46.81:2053 [VLESS]", server: 104.19.46.81, port: 2053, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 172.66.208.138:2096 [VLESS]", server: 172.66.208.138, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
+  - {name: "سرویس رایگان نوا @irnova 162.159.158.3:2096 [VLESS]", server: 162.159.158.3, port: 2096, type: vless, uuid: b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de, tls: true, skip-cert-verify: false, servername: misty-otter-8c2a-465f670b.pages.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /3fa844af8d7b, headers: {Host: misty-otter-8c2a-465f670b.pages.dev}}, ech-opts: {enable: true, query-server-name: cloudflare-ech.com}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -76,36 +76,36 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.60:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.156.43:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.138.119:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.134:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.111.80:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.61:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.102.44:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.150.236:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.30.94:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.49.57:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.40:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.141:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.208:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.55:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.197:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.203:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.164.13:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.138.229:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.17.182:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.45.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.165:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.153.160:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.105:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.17:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.51:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.205.131:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.151.22:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.47.142:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.127:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.73.111:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.39.213:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.54.43:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.43:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.0:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.74:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.35.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.0:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.138.128:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.156.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.191:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.33.195:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.183:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.97.53:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.174:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.163.87:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.20:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.215:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.147:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.96:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.207:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.30.250:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.81:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.208.138:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.3:2096 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -113,72 +113,72 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.60:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.156.43:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.138.119:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.134:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.111.80:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.61:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.102.44:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.150.236:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.30.94:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.49.57:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.40:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.141:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.208:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.55:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.197:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.203:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.164.13:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.138.229:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.17.182:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.45.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.165:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.153.160:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.105:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.17:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.51:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.205.131:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.151.22:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.47.142:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.127:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.73.111:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.39.213:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.54.43:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.43:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.0:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.74:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.35.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.0:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.138.128:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.156.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.191:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.33.195:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.183:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.97.53:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.174:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.163.87:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.20:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.215:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.147:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.96:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.207:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.30.250:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.81:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.208.138:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.3:2096 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.60:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.156.43:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.138.119:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.134:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.111.80:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.61:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.102.44:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.150.236:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.30.94:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.49.57:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.40:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.141:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.208:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.55:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.197:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.203:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.164.13:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.138.229:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.17.182:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.45.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.165:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.153.160:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.105:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.17:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.51:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.205.131:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.151.22:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.47.142:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.127:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.73.111:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.39.213:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.54.43:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.43:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.0:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.74:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.35.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.0:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.138.128:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.156.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.191:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.33.195:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.183:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.97.53:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.174:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.163.87:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.20:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.215:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.147:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.96:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.207:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.30.250:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.81:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.208.138:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.3:2096 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -186,36 +186,36 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.60:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.156.43:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.138.119:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.134:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.111.80:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.61:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.102.44:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.150.236:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.30.94:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.49.57:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.40:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.141:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.208:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.55:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.197:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.203:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.164.13:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.138.229:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.17.182:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.45.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.165:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.153.160:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.105:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.17:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.51:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.205.131:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.151.22:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.47.142:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.127:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.73.111:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.39.213:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.54.43:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.43:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.0:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.74:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.35.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.0:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.138.128:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.156.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.191:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.33.195:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.183:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.97.53:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.174:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.163.87:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.20:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.215:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.147:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.96:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.207:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.30.250:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.81:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.208.138:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.3:2096 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -242,36 +242,36 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.60:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.156.43:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.138.119:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.134:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.111.80:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.61:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.102.44:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.150.236:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.30.94:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.49.57:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.40:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.141:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.208:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.55:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.197:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.203:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.164.13:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.138.229:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.17.182:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.45.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.165:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.153.160:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.105:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.17:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.51:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.205.131:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.151.22:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.47.142:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.127:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.73.111:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.39.213:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.54.43:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.43:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.0:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.74:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.35.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.0:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.138.128:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.156.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.191:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.33.195:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.183:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.97.53:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.174:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.163.87:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.20:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.215:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.147:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.96:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.207:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.30.250:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.81:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.208.138:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.3:2096 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -284,36 +284,36 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.67.251.60:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.156.43:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.208.120:443 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.138.119:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.0.134:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.111.80:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 198.41.209.61:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.102.44:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.150.236:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.20.30.94:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.12:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.49.57:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.30.40:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.121.141:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.33.208:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.1.55:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.197:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.203:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.164.13:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.138.229:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.17.182:2053 [VLESS]
-      - سرویس رایگان نوا @irnova 162.159.45.210:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.19.57.165:8443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.153.160:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.103.105:443 [VLESS]
-      - سرویس رایگان نوا @irnova 172.64.83.17:2096 [VLESS]
-      - سرویس رایگان نوا @irnova 172.66.129.51:2083 [VLESS]
-      - سرویس رایگان نوا @irnova 104.16.205.131:2087 [VLESS]
-      - سرویس رایگان نوا @irnova 104.17.151.22:443 [VLESS]
-      - سرویس رایگان نوا @irnova 104.18.47.142:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 172.64.154.127:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.73.111:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.39.213:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.54.43:443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.132.154:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.43:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.0:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 8.35.211.74:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.35.238:443 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.0:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.138.128:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.156.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.168.85:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.236.191:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 104.18.33.195:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.214.183:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.97.53:2087 [VLESS]
+      - سرویس رایگان نوا @irnova 188.164.248.174:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.196:443 [VLESS]
+      - سرویس رایگان نوا @irnova 172.67.163.87:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.17.19.20:8443 [VLESS]
+      - سرویس رایگان نوا @irnova 104.16.218.215:2083 [VLESS]
+      - سرویس رایگان نوا @irnova 141.101.113.147:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.96:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 91.193.58.207:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.20.30.250:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 104.19.46.81:2053 [VLESS]
+      - سرویس رایگان نوا @irnova 172.66.208.138:2096 [VLESS]
+      - سرویس رایگان نوا @irnova 162.159.158.3:2096 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
