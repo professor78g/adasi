@@ -109,8 +109,521 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.64.146.182:2053 [VLESS]",
-      "server": "172.64.146.182",
+      "tag": "سرویس رایگان نوا @irnova 91.193.58.117:2087 [VLESS]",
+      "server": "91.193.58.117",
+      "server_port": 2087,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.66.214.24:2096 [VLESS]",
+      "server": "172.66.214.24",
+      "server_port": 2096,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.140.86:8443 [VLESS]",
+      "server": "104.17.140.86",
+      "server_port": 8443,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.16.218.247:8443 [VLESS]",
+      "server": "104.16.218.247",
+      "server_port": 8443,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.64.83.183:2083 [VLESS]",
+      "server": "172.64.83.183",
+      "server_port": 2083,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.67.156.54:2087 [VLESS]",
+      "server": "172.67.156.54",
+      "server_port": 2087,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.64.154.188:8443 [VLESS]",
+      "server": "172.64.154.188",
+      "server_port": 8443,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.137.173:2096 [VLESS]",
+      "server": "104.17.137.173",
+      "server_port": 2096,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.20.30.15:2083 [VLESS]",
+      "server": "104.20.30.15",
+      "server_port": 2083,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.19.39.23:2087 [VLESS]",
+      "server": "104.19.39.23",
+      "server_port": 2087,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.19.147.133:2087 [VLESS]",
+      "server": "104.19.147.133",
+      "server_port": 2087,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.64.151.215:8443 [VLESS]",
+      "server": "172.64.151.215",
+      "server_port": 8443,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 198.41.208.9:8443 [VLESS]",
+      "server": "198.41.208.9",
+      "server_port": 8443,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.19.145.46:2083 [VLESS]",
+      "server": "104.19.145.46",
+      "server_port": 2083,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 108.162.198.84:2087 [VLESS]",
+      "server": "108.162.198.84",
+      "server_port": 2087,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.19.39.219:8443 [VLESS]",
+      "server": "104.19.39.219",
+      "server_port": 8443,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 162.159.38.141:443 [VLESS]",
+      "server": "162.159.38.141",
+      "server_port": 443,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.132.150:2096 [VLESS]",
+      "server": "104.17.132.150",
+      "server_port": 2096,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 172.64.156.147:2083 [VLESS]",
+      "server": "172.64.156.147",
+      "server_port": 2083,
+      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
+      "transport": {
+        "path": "/3fa844af8d7b",
+        "type": "ws",
+        "headers": {
+          "Host": "misty-otter-8c2a-465f670b.pages.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "ech": {
+          "enabled": true,
+          "query_server_name": "cloudflare-ech.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova 104.17.115.160:2053 [VLESS]",
+      "server": "104.17.115.160",
       "server_port": 2053,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
@@ -136,8 +649,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.138.65:2083 [VLESS]",
-      "server": "104.17.138.65",
+      "tag": "سرویس رایگان نوا @irnova 172.64.83.112:2083 [VLESS]",
+      "server": "172.64.83.112",
       "server_port": 2083,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
@@ -163,8 +676,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.19.57.53:2096 [VLESS]",
-      "server": "104.19.57.53",
+      "tag": "سرویس رایگان نوا @irnova 8.39.125.112:2096 [VLESS]",
+      "server": "8.39.125.112",
       "server_port": 2096,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
@@ -190,9 +703,9 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.150.69:2096 [VLESS]",
-      "server": "104.16.150.69",
-      "server_port": 2096,
+      "tag": "سرویس رایگان نوا @irnova 104.19.57.217:2083 [VLESS]",
+      "server": "104.19.57.217",
+      "server_port": 2083,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
         "path": "/3fa844af8d7b",
@@ -217,116 +730,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.45.115:2087 [VLESS]",
-      "server": "104.18.45.115",
-      "server_port": 2087,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.64.153.221:2096 [VLESS]",
-      "server": "172.64.153.221",
-      "server_port": 2096,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.27.206:2096 [VLESS]",
-      "server": "104.17.27.206",
-      "server_port": 2096,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.64.146.152:8443 [VLESS]",
-      "server": "172.64.146.152",
-      "server_port": 8443,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.64.150.73:2053 [VLESS]",
-      "server": "172.64.150.73",
+      "tag": "سرویس رایگان نوا @irnova 104.19.55.184:2053 [VLESS]",
+      "server": "104.19.55.184",
       "server_port": 2053,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
@@ -352,8 +757,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.64.153.213:443 [VLESS]",
-      "server": "172.64.153.213",
+      "tag": "سرویس رایگان نوا @irnova 172.64.153.6:443 [VLESS]",
+      "server": "172.64.153.6",
       "server_port": 443,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
@@ -379,251 +784,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.64.156.162:2083 [VLESS]",
-      "server": "172.64.156.162",
-      "server_port": 2083,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.64.67.231:443 [VLESS]",
-      "server": "172.64.67.231",
-      "server_port": 443,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.42.239:8443 [VLESS]",
-      "server": "104.18.42.239",
-      "server_port": 8443,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.64.146.236:443 [VLESS]",
-      "server": "172.64.146.236",
-      "server_port": 443,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.51.164:2083 [VLESS]",
-      "server": "104.17.51.164",
-      "server_port": 2083,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.64.159.101:8443 [VLESS]",
-      "server": "172.64.159.101",
-      "server_port": 8443,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.40.254:2083 [VLESS]",
-      "server": "104.18.40.254",
-      "server_port": 2083,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.16.205.111:443 [VLESS]",
-      "server": "104.16.205.111",
-      "server_port": 443,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.66.214.191:2087 [VLESS]",
-      "server": "172.66.214.191",
-      "server_port": 2087,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.67.163.248:2096 [VLESS]",
-      "server": "172.67.163.248",
+      "tag": "سرویس رایگان نوا @irnova 104.19.149.183:2096 [VLESS]",
+      "server": "104.19.149.183",
       "server_port": 2096,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
@@ -649,9 +811,9 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 141.101.113.65:2083 [VLESS]",
-      "server": "141.101.113.65",
-      "server_port": 2083,
+      "tag": "سرویس رایگان نوا @irnova 172.64.153.29:2053 [VLESS]",
+      "server": "172.64.153.29",
+      "server_port": 2053,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
         "path": "/3fa844af8d7b",
@@ -676,143 +838,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 162.159.148.68:8443 [VLESS]",
-      "server": "162.159.148.68",
-      "server_port": 8443,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.66.214.181:2096 [VLESS]",
-      "server": "172.66.214.181",
-      "server_port": 2096,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.67.251.102:2083 [VLESS]",
-      "server": "172.67.251.102",
-      "server_port": 2083,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 162.159.158.36:8443 [VLESS]",
-      "server": "162.159.158.36",
-      "server_port": 8443,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 172.67.154.252:2087 [VLESS]",
-      "server": "172.67.154.252",
-      "server_port": 2087,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 91.193.58.18:443 [VLESS]",
-      "server": "91.193.58.18",
+      "tag": "سرویس رایگان نوا @irnova 104.19.17.155:443 [VLESS]",
+      "server": "104.19.17.155",
       "server_port": 443,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
@@ -838,9 +865,9 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.19.58.39:2083 [VLESS]",
-      "server": "104.19.58.39",
-      "server_port": 2083,
+      "tag": "سرویس رایگان نوا @irnova 172.66.208.0:2096 [VLESS]",
+      "server": "172.66.208.0",
+      "server_port": 2096,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
         "path": "/3fa844af8d7b",
@@ -865,36 +892,9 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.18.42.170:2083 [VLESS]",
-      "server": "104.18.42.170",
-      "server_port": 2083,
-      "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
-      "transport": {
-        "path": "/3fa844af8d7b",
-        "type": "ws",
-        "headers": {
-          "Host": "misty-otter-8c2a-465f670b.pages.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "misty-otter-8c2a-465f670b.pages.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "ech": {
-          "enabled": true,
-          "query_server_name": "cloudflare-ech.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova 104.17.184.224:2083 [VLESS]",
-      "server": "104.17.184.224",
-      "server_port": 2083,
+      "tag": "سرویس رایگان نوا @irnova 104.19.42.14:443 [VLESS]",
+      "server": "104.19.42.14",
+      "server_port": 443,
       "uuid": "b4c59bc8-deb1-4b2e-bf44-0f8fce3fa2de",
       "transport": {
         "path": "/3fa844af8d7b",
@@ -926,36 +926,36 @@
         "🔮 负载均衡",
         "DIRECT",
         "سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.182:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.138.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.57.53:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.150.69:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.45.115:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.221:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.27.206:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.152:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.150.73:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.213:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.156.162:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.67.231:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.239:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.51.164:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.159.101:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.40.254:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.205.111:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.191:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.163.248:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 141.101.113.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.148.68:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.251.102:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.158.36:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.154.252:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.58.18:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.58.39:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.170:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.184.224:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.117:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.214.24:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.140.86:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.218.247:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.183:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.156.54:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.154.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.137.173:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.30.15:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.23:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.133:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.151.215:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.208.9:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.46:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.84:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.141:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.132.150:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.156.147:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.115.160:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.112:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.112:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.57.217:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.55.184:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.149.183:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.29:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.17.155:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.208.0:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.42.14:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -965,36 +965,36 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.182:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.138.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.57.53:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.150.69:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.45.115:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.221:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.27.206:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.152:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.150.73:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.213:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.156.162:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.67.231:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.239:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.51.164:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.159.101:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.40.254:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.205.111:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.191:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.163.248:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 141.101.113.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.148.68:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.251.102:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.158.36:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.154.252:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.58.18:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.58.39:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.170:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.184.224:2083 [VLESS]"
+        "سرویس رایگان نوا @irnova 91.193.58.117:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.214.24:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.140.86:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.218.247:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.183:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.156.54:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.154.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.137.173:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.30.15:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.23:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.133:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.151.215:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.208.9:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.46:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.84:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.141:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.132.150:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.156.147:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.115.160:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.112:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.112:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.57.217:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.55.184:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.149.183:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.29:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.17.155:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.208.0:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.42.14:443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -1005,36 +1005,36 @@
       "tag": "🔯 故障转移",
       "outbounds": [
         "سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.182:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.138.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.57.53:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.150.69:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.45.115:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.221:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.27.206:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.152:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.150.73:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.213:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.156.162:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.67.231:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.239:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.51.164:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.159.101:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.40.254:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.205.111:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.191:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.163.248:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 141.101.113.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.148.68:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.251.102:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.158.36:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.154.252:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.58.18:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.58.39:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.170:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.184.224:2083 [VLESS]"
+        "سرویس رایگان نوا @irnova 91.193.58.117:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.214.24:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.140.86:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.218.247:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.183:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.156.54:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.154.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.137.173:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.30.15:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.23:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.133:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.151.215:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.208.9:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.46:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.84:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.141:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.132.150:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.156.147:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.115.160:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.112:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.112:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.57.217:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.55.184:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.149.183:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.29:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.17.155:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.208.0:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.42.14:443 [VLESS]"
       ]
     },
     {
@@ -1042,36 +1042,36 @@
       "tag": "🔮 负载均衡",
       "outbounds": [
         "سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.182:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.138.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.57.53:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.150.69:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.45.115:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.221:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.27.206:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.152:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.150.73:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.213:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.156.162:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.67.231:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.239:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.51.164:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.159.101:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.40.254:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.205.111:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.191:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.163.248:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 141.101.113.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.148.68:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.251.102:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.158.36:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.154.252:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.58.18:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.58.39:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.170:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.184.224:2083 [VLESS]"
+        "سرویس رایگان نوا @irnova 91.193.58.117:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.214.24:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.140.86:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.218.247:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.183:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.156.54:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.154.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.137.173:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.30.15:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.23:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.133:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.151.215:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.208.9:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.46:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.84:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.141:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.132.150:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.156.147:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.115.160:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.112:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.112:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.57.217:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.55.184:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.149.183:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.29:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.17.155:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.208.0:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.42.14:443 [VLESS]"
       ]
     },
     {
@@ -1105,36 +1105,36 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.182:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.138.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.57.53:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.150.69:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.45.115:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.221:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.27.206:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.152:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.150.73:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.213:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.156.162:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.67.231:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.239:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.51.164:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.159.101:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.40.254:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.205.111:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.191:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.163.248:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 141.101.113.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.148.68:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.251.102:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.158.36:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.154.252:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.58.18:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.58.39:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.170:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.184.224:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.117:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.214.24:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.140.86:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.218.247:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.183:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.156.54:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.154.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.137.173:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.30.15:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.23:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.133:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.151.215:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.208.9:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.46:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.84:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.141:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.132.150:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.156.147:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.115.160:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.112:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.112:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.57.217:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.55.184:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.149.183:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.29:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.17.155:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.208.0:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.42.14:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -1150,36 +1150,36 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.182:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.138.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.57.53:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.150.69:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.45.115:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.221:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.27.206:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.152:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.150.73:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.213:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.156.162:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.67.231:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.239:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.51.164:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.159.101:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.40.254:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.205.111:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.191:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.163.248:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 141.101.113.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.148.68:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.251.102:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.158.36:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.154.252:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.58.18:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.58.39:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.170:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.184.224:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.117:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.214.24:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.140.86:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.218.247:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.183:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.156.54:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.154.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.137.173:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.30.15:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.23:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.133:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.151.215:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.208.9:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.46:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.84:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.141:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.132.150:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.156.147:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.115.160:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.112:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.112:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.57.217:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.55.184:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.149.183:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.29:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.17.155:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.208.0:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.42.14:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
@@ -1190,36 +1190,36 @@
       "outbounds": [
         "DIRECT",
         "سرویس رایگان نوا @irnova misty-otter-8c2a-465f670b.pages.dev:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.182:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.138.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.57.53:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.150.69:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.45.115:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.221:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.27.206:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.152:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.150.73:2053 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.153.213:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.156.162:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.67.231:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.239:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.146.236:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.51.164:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.64.159.101:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.40.254:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.16.205.111:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.191:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.163.248:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 141.101.113.65:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.148.68:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.66.214.181:2096 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.251.102:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 162.159.158.36:8443 [VLESS]",
-        "سرویس رایگان نوا @irnova 172.67.154.252:2087 [VLESS]",
-        "سرویس رایگان نوا @irnova 91.193.58.18:443 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.19.58.39:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.18.42.170:2083 [VLESS]",
-        "سرویس رایگان نوا @irnova 104.17.184.224:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 91.193.58.117:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.214.24:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.140.86:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.16.218.247:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.183:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.67.156.54:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.154.188:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.137.173:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.20.30.15:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.23:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.147.133:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.151.215:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 198.41.208.9:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.145.46:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 108.162.198.84:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.39.219:8443 [VLESS]",
+        "سرویس رایگان نوا @irnova 162.159.38.141:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.132.150:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.156.147:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.17.115.160:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.83.112:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 8.39.125.112:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.57.217:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.55.184:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.6:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.149.183:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.64.153.29:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.17.155:443 [VLESS]",
+        "سرویس رایگان نوا @irnova 172.66.208.0:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova 104.19.42.14:443 [VLESS]",
         "📢 https://t.me/irnova",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01"
       ]
